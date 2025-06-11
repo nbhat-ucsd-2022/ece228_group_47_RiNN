@@ -49,4 +49,4 @@ You can download them from the following Google Drive link:
 
 ---
 
-Let us know if you encounter any issues or would like to contribute!
+Let us know if you encounter any issues or would like to contribute! PLease contact: nbhat@ucsd.edu or fasalehi@ucsd.edu
