@@ -15,11 +15,13 @@ This repository contains the code, dependencies, and trained models developed fo
 2. **Open the Jupyter notebook**  
    Open `ECE228Project-Group47-RiNN.ipynb` and update the base directory path to your local setup.
 
-3. **Select the dataset**  
+3. ** Please use the Google Drive provided below to obtain the datasets and pre-trained models. **
+
+4. **Select the dataset**  
    - To run on the SISO dataset, rename `dataset_siso.json` accordingly.
    - The default is `dataset_1RIS.json`.
 
-4. **Update voxel path in training loop**  
+5. **Update voxel path in training loop**  
    Modify the `voxels_path` parameter in the training cell:
    ```
    path_to_your_repo/channel_scatter_room/scene_voxels_1RIS.npy
@@ -29,7 +31,7 @@ This repository contains the code, dependencies, and trained models developed fo
      path_to_your_repo/channel_scatter_room/ scene_voxels_SISO.npy
    ```
 
-5. **Run all notebook cells to train or evaluate the model**
+6. **Run all notebook cells to train or evaluate the model**
 
 ---
 
