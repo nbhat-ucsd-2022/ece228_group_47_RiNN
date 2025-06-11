@@ -26,7 +26,7 @@ This repository contains the code, dependencies, and trained models developed fo
    ```
    or
    ```
-   scene_voxels_SISO.npy
+     path_to_your_repo/channel_scatter_room/ scene_voxels_SISO.npy
    ```
 
 5. **Run all notebook cells to train or evaluate the model**
