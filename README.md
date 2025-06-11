@@ -15,7 +15,7 @@ This repository contains the code, dependencies, and trained models developed fo
 2. **Open the Jupyter notebook**  
    Open `ECE228Project-Group47-RiNN.ipynb` and update the base directory path to your local setup.
 
-3. ** Please use the Google Drive provided below to obtain the datasets and pre-trained models. **
+3. **Please use the Google Drive provided below to obtain the datasets and pre-trained models.**
 
 4. **Select the dataset**  
    - To run on the SISO dataset, rename `dataset_siso.json` accordingly.
