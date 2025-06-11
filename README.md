@@ -33,7 +33,7 @@ This repository contains the code, dependencies, and trained models developed fo
 
 6. **Run all notebook cells to train or evaluate the model**
 7. **Pre-trained models**
-   The trained on respective datasets are available under
+      The trained on respective datasets are available under
    ```
    channel_scatter_room/trained_models
    ```
